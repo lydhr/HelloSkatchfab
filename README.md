@@ -1,2 +1,2 @@
-# HelloSkatchfab
-test for embed code in Skatchfab
+# HelloSketchfab
+test for embed code in Sketchfab
